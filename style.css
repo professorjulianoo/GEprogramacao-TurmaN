@@ -6,10 +6,17 @@ h1 {
 text-align: center;    
 }
 
+.momentos {
+    background-color: lightpink;
+    border: black solid 2px;
+    padding: 10px;
+    margin: 10px;
+
+}
 h3 {
     color: red;
 }
-
+#
 b {
     color: blue;
 }
